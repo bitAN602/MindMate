@@ -113,4 +113,4 @@ if st.button("Submit Feedback"):
 
 # Footer
 st.markdown("---")
-st.write("Made by ishaaan")
+st.write("Made by Ishwari and Rutika")
