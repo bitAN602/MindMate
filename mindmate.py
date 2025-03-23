@@ -94,10 +94,10 @@ for message in st.session_state.chat_history:
 # Resource Recommendations
 st.header("📚 Mental Health Resources")
 resources = [
-    "1. [Breathing Exercise Guide](https://www.mindful.org/daily-breathing-practice/)",
-    "2. [Journaling Prompts for Mental Health](https://positivepsychology.com/journaling-for-mental-health/)",
+    "1. [Breathing Exercise Guide](https://www.healthline.com/health/breathing-exercise)",
+    "2. [Journaling Prompts for Mental Health](https://psychcentral.com/lib/the-health-benefits-of-journaling)",
     "3. [Guided Meditation Videos](https://www.youtube.com/results?search_query=guided+meditation)",
-    "4. [Crisis Hotlines](https://findahelpline.com/)"
+    "4. [Crisis Hotlines](https://findahelpline.com/countries/in)"
 ]
 st.write("Here are some resources to help you:")
 for resource in resources:
